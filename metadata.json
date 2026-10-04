@@ -1,0 +1,6 @@
+{
+  "name": "Galaxy Market",
+  "description": "Легендарный Galaxy Market для Android со скачиванием настоящих APK файлов, рейтингами, отзывами и ретро-играми",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
